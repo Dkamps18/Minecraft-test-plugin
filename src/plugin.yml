@@ -1,0 +1,9 @@
+name: Dkamps18-Hello
+main: net.Dkamps18.Hello.core
+version: 1.0
+author: Dkamps18
+commands:
+    hello:
+        usage: /<command> [player]
+    particleattack:
+        usage: /<command> [player]
